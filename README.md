@@ -14,7 +14,7 @@
  .initialcond(); Gets user input to either have a random initial cond. if input == "random"
  else it utilizes the whisper.py algorithm
  
- .iter(); Iterates the GoL 1 time for each call
+ .iter(); Iterates the GoL [20,29] times for each call 
  
  #main.py contains the code for calling the functions and plotting
  
