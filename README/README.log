@@ -1,0 +1,18 @@
+T-Spice - Tanner SPICE
+Version 15.00
+Network license
+Product Release ID: T-Spice Win32 15.00.20100420.01:51:18
+Copyright © 1988-2010 Tanner EDA
+
+	Parsing "C:\Users\Ali Kaan\Documents\GitHub\Whisper2GoL\README.md"
+Warning : "README.md" line 1 First line is a title and is ignored -> 
+*		"# Whisper2GoL"
+Fatal Error : "README.md" line 2 unsupported circuit element -> " Basic"
+
+
+Parsing                      0.02 seconds
+Overhead                     0.06 seconds
+-----------------------------------------
+Total                        0.07 seconds
+
+Simulation failed	with  1 Warning  1 Fatal Error
