@@ -14,7 +14,7 @@ class GameOfLife:
                        for j in range(self.size)] #random filling with ~0.8 fillfactor
         else:
             self.cells=matrix_construct(expend_binary(get_word_to_number(str(self.seed))))
-        self.iterno=100+np.mod(int(get_word_to_number(str(self.seed))),5) 
+        self.iterno=20+np.mod(int(get_word_to_number(str(self.seed))),10) 
         #decides how many iterations will be done on GoL
     
     def densitycheck(self): #checks density to stop iterations
