@@ -1,6 +1,7 @@
 # Whisper2GoL
  Basic seeding algorithm applied to Conway's Game of Life
  
+ To start:
  python main.py
  
  #Whisper.py contains seeding algorithm functions:
