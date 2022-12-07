@@ -1,5 +1,6 @@
 # Whisper2GoL
  Basic seeding algorithm applied to Conway's Game of Life
+ Prepared for the MSN514 Course (MSc Programme @UNAM-Bilkent University) final project.
  
  To start:
  python main.py
